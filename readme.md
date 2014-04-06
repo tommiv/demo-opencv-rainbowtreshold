@@ -1,0 +1,1 @@
+Old demo with simple runtime filtering of captured video. Used OpenCV framework.
